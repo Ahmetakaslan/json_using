@@ -1,0 +1,43 @@
+[
+  {
+    "Name" : "Ahmet",
+    "SurName" : " Akaslan",
+    "Age" : "20"
+  },
+  {
+    "Name" : "Büşra",
+    "SurName" : " Aslan",
+    "Age" : "20"
+  },
+  {
+    "Name" : "Mahmut",
+    "SurName" : " Akaslan",
+    "Age" : "50"
+  },
+  {
+    "Name" : "Serhat",
+    "SurName" : " Akaslan",
+    "Age" : "24"
+  },
+  {
+    "Name" : "Ferhat",
+    "SurName" : " Akaslan",
+    "Age" : "28"
+  },
+  {
+    "Name" : "Dilan",
+    "SurName" : " Akaslan",
+    "Age" : "25"
+  },
+  {
+    "Name" : "Mehmet",
+    "SurName" : " Akaslan",
+    "Age" : "27"
+  },
+  {
+    "Name" : "Derya",
+    "SurName" : " Akaslan",
+    "Age" : "25"
+  }
+
+]
